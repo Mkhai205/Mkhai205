@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" width="150" src="https://media.giphy.com/media/3o7ZeMCXAFPvusagQU/giphy.gif"  />
+<img align="right" height="140" src="https://media.giphy.com/media/3o7ZeMCXAFPvusagQU/giphy.gif"  />
 
 ###
 
@@ -101,9 +101,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MKhai205&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=MKhai205&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MKhai205&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mkhai205&show_icons=true&theme=tokyonight" height="150" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=Mkhai205&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mkhai205&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
 </div>
+
 
 ###
