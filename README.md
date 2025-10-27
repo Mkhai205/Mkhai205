@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" width="150" src="https://media.giphy.com/media/3o7ZeMCXAFPvusagQU/giphy.gif"  />
+<img align="right" height="150" width="150" src="https://github.com/Mkhai205/Mkhai205/blob/main/avatar.webp"  />
 
 ###
 
