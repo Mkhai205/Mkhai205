@@ -102,7 +102,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mkhai205&show_icons=true&theme=tokyonight" height="150" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=Mkhai205&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Mkhai205&theme=tokyonight" height="150" alt="streak graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mkhai205&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
 </div>
 
