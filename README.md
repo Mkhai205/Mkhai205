@@ -1,10 +1,13 @@
-<h2 align="left">Hi 👋! My name is Manh Khai<br>I'm a Software Engineer | Frontend & Backend Full-Stack Developer</h2>
+### `$ whoami`
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=59C2F7&width=435&lines=Hi+%F0%9F%91%8B!+My+name+is+Manh+Khai;I'm+a+Software+Engineer;I'm+a+Full-Stack+Developer)](https://git.io/typing-svg)
 
 ###
 
 <img align="right" height="150" width="150" src="https://github.com/Mkhai205/Mkhai205/blob/main/avatar.webp"  />
 
 ###
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mkhai205&label=Profile%20views&color=0e75b6&style=flat" alt="Mkhai205" /> </p>
 
 <p align="left">🧑‍💻 About Me  <br>I’m a computer science student studying at university, passionate about building web & mobile applications. I’m currently focused on enhancing my skills in full-stack development and DevOps practices.</p>
 
